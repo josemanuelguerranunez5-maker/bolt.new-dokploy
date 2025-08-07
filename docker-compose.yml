@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  bolt:
+  domain:
     image: node:18
     container_name: bolt_app
     working_dir: /app
